@@ -1,0 +1,44 @@
+{
+  "name": "rails-assets-datatables-fixedheader",
+  "downloads": null,
+  "version": "3.2.4",
+  "version_downloads": null,
+  "platform": "ruby",
+  "authors": "rails-assets.org",
+  "info": "",
+  
+  "metadata": {
+
+  },
+  "sha": null,
+  "project_uri": "https://github.com/DataTables/FixedHeader",
+  "gem_uri": null,
+  "homepage_uri": "https://github.com/DataTables/FixedHeader",
+  "wiki_uri": null,
+  "documentation_uri": null,
+  "mailing_list_uri": null,
+  "source_code_uri": "https://github.com/DataTables/FixedHeader",
+  "bug_tracker_uri": null,
+  "dependencies": {
+    "development": [
+    
+    
+    {
+      "name": "rails-assets-jquery",
+      "requirements": ">= 1.7.0"
+    },
+    
+    
+    
+    {
+      "name": "rails-assets-datatables",
+      "requirements": ">= 1.10.7"
+    },
+    
+    
+    ],
+    "runtime": [
+
+    ]
+  }
+}
